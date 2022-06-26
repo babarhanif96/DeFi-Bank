@@ -1,0 +1,30 @@
+/* Styles go here */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: darkorchid;
+    background-color: #efe3d9;
+    border-color: #efe3d9;
+}
+
+.nav-tabs {
+    color: darkorchid;
+    border-bottom: none;
+    width: max-content;
+}
+
+.nav-tabs .nav-link {  
+    color: darkorchid;
+    text-decoration: none;
+}
+
+.nav-tabs .nav-link:hover {
+    color: darkorchid;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 4px ;
+    text-underline-offset: 6px;
+}
+
+body {
+	background-color: #efe3d9;
+	color: #33b5e5;
+}
